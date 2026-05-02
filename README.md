@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8fab&height=200&section=header&text=LeetCode%20Shadow%20Grind&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=LeetCode%20Shadow%20Grind&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:ffc0cb,50:ff8fab,100:ff5d8f" />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -8,7 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=ff8fab&center=true&vCenter=true&lines=leetcode+grind...;from+TLE+to+AC;domain+expansion:+accepted;consistency+%3E+talent" />
 </p>
 
-## 🌸 About This Repo
+<p align="center">
+  <img src="https://media1.tenor.com/m/a-Xu1jkMDKAAAAAC/goyo.gif" width="500px" />
+</p>
+
+## About This Repo
 ```diff
 + solving leetcode problems daily
 + focusing on patterns, not memorization
