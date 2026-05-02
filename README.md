@@ -12,8 +12,8 @@
   <img src="https://media1.tenor.com/m/a-Xu1jkMDKAAAAAC/goyo.gif" width="500px" />
 </p>
 
-## About This Repo
-```diff
-+ solving leetcode problems daily
-+ focusing on patterns, not memorization
-+ consistency > motivation
+## 🌸 About This Repo
+
+![pink](https://img.shields.io/badge/-solving%20leetcode%20problems%20daily-ff8fab?style=for-the-badge&logoColor=white)
+![pink](https://img.shields.io/badge/-patterns%20over%20memorization-ff8fab?style=for-the-badge&logoColor=white)
+![pink](https://img.shields.io/badge/-consistency%20%3E%20motivation-ff8fab?style=for-the-badge&logoColor=white)
